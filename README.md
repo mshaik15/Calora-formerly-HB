@@ -1,4 +1,5 @@
-# Nutritional Calculator
+# Calora (Formerly Healthbyte)
+## Python Nutritional Calculator
 Simple project made by Rehan, Jeremiah, and Zayn (Currently Prototype)
 
 ## Introduction
